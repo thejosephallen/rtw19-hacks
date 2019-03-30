@@ -1,0 +1,21 @@
+['AVG_UNIT_WEIGHT', 'SELLING_PRICE', 'Monthly_Top_1_Customer_Zip',
+       'Monthly_Top_2_Customer_Zip', 'Monthly_Top_3_Customer_Zip',
+       'Monthly_Top_4_Customer_Zip', 'Monthly_Top_5_Customer_Zip',
+       'Monthly_Top_6_Customer_Zip', 'Monthly_Top_7_Customer_Zip',
+       'Monthly_Top_8_Customer_Zip', 'Monthly_Top_9_Customer_Zip',
+       'Monthly_Top_10_Customer_Zip', 'Monthly_Top_1_Customer_Total_Sales',
+       'Monthly_Top_2_Customer_Total_Sales',
+       'Monthly_Top_3_Customer_Total_Sales',
+       'Monthly_Top_4_Customer_Total_Sales',
+       'Monthly_Top_5_Customer_Total_Sales',
+       'Monthly_Top_6_Customer_Total_Sales',
+       'Monthly_Top_7_Customer_Total_Sales',
+       'Monthly_Top_8_Customer_Total_Sales',
+       'Monthly_Top_9_Customer_Total_Sales',
+       'Monthly_Top_10_Customer_Total_Sales']
+
+[0.37607048, 0.50202682, 0.00178926, 0.00192915, 0.00234645,
+       0.0055621 , 0.00330045, 0.00435177, 0.00212647, 0.00478848,
+       0.00414177, 0.00330985, 0.00388183, 0.00779419, 0.00313743,
+       0.01102282, 0.00710661, 0.00556888, 0.01028223, 0.00672655,
+       0.01166556, 0.02107086])
